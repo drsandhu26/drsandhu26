@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drsandhu26
-- 👀 I’m interested in applications of AI/ML inn Healthcare
+- 👀 I’m interested in applications of AI/ML in Healthcare
 - 🌱 I’m currently learning Python, ML
 - 💞️ I’m looking to collaborate on LLMs for predicting healthcare outcomes
 - 📫 How to reach me Linkedin- Jasreen Sandhu
